@@ -1,0 +1,49 @@
+header {
+    text-align: center;
+}
+
+ul {
+    width: 457px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    height: 36px;
+    line-height: 36px;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+li {
+    float: left;
+    border-right: 1px solid sienna;
+}
+
+a {
+    display: block;
+    padding: 0 28px;
+    color: white;
+}
+
+.active a {
+    background-color: rgb(20, 197, 220);
+}
+
+.box {
+    border: 5px solid rgb(20, 197, 220);
+    background-color: lightgray;
+    border-style: double;
+    padding: 20px;
+    margin: 40px;
+    width: 720px;
+    height: 440px;
+    font-size: 20px;
+}
+
+.title_header {
+    background-color: rgb(20, 197, 220);
+    padding: .5em;
+    color: #000000;
+    font-size: 4em;
+    text-align: center;
+}
